@@ -1,7 +1,0 @@
-C:\Users\user\source\repos\Artest\Artest\bin\Debug\Artest.exe.config
-C:\Users\user\source\repos\Artest\Artest\bin\Debug\Artest.exe
-C:\Users\user\source\repos\Artest\Artest\bin\Debug\Artest.pdb
-C:\Users\user\source\repos\Artest\Artest\obj\Debug\Artest.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\Artest\Artest\obj\Debug\Artest.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\Artest\Artest\obj\Debug\Artest.exe
-C:\Users\user\source\repos\Artest\Artest\obj\Debug\Artest.pdb
