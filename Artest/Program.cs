@@ -39,7 +39,8 @@ namespace Artest
             IntPtr hConsole = DllImports.GetStdHandle(-11);   // get console handle
             DllImports.COORD xy = new DllImports.COORD(100, 100);
             DllImports.SetConsoleDisplayMode(hConsole, 1, out xy); // set the console to fullscreen
-                                                                   //SetConsoleDisplayMode(hConsole, 2);   // set the console to windowed
+                                                                   
+            
 
             #endregion
 
